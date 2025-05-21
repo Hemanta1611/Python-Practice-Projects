@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "title": "Buy groceries",
+            "description": "Buy groceries from the store",
+            "completed": true
+        },
+        {
+            "title": "Finish the project",
+            "description": "Finish the project for the class",
+            "completed": true
+        }
+    ]
+}

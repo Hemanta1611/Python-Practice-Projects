@@ -1,4 +1,4 @@
-# Random Password Generator | Not a Security Provider
+# Random Password Generator | Not a Security Provider (no encryption and decription)
 
 A secure and customizable password generator built with Python that allows users to create strong passwords based on their specific requirements.
 
